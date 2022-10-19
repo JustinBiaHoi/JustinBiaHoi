@@ -116,7 +116,7 @@ header {
 }
 
 .navbar__link a:hover {
-  color: navajowhite;
+  color: var(--green-l);
   transition: var(--smooth);
 }
 
